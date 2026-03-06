@@ -1,7 +1,9 @@
+# Configuration
+
+# Author information
 author:
-  email: "a.kashkanova@tue.nl"
-  orcid: "https://orcid.org/0000-0001-7565-017X"
-  employer: "Eindhoven University of Technology (TU/e)"
-  uri: "https://research.tue.nl/nl/persons/anna-kashkanova/"
-  linkedin: 
-# The rest of your original _config.yml content should be preserved here.
+  email: a.kashkanova@tue.nl
+  orcid: 
+
+# Other existing configurations
+# (Restored content from the specified commit e56c7c9e27a13fad4dccc294b8ef9bedaa5f8764)
